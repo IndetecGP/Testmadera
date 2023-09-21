@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://IndetecGP.github.io/Testmadera/static/css/main.0f3fd23f.css",
-    "main.js": "https://IndetecGP.github.io/Testmadera/static/js/main.1a0a86aa.js",
+    "main.js": "https://IndetecGP.github.io/Testmadera/static/js/main.2aecec4f.js",
     "index.html": "https://IndetecGP.github.io/Testmadera/index.html",
     "main.0f3fd23f.css.map": "https://IndetecGP.github.io/Testmadera/static/css/main.0f3fd23f.css.map",
-    "main.1a0a86aa.js.map": "https://IndetecGP.github.io/Testmadera/static/js/main.1a0a86aa.js.map"
+    "main.2aecec4f.js.map": "https://IndetecGP.github.io/Testmadera/static/js/main.2aecec4f.js.map"
   },
   "entrypoints": [
     "static/css/main.0f3fd23f.css",
-    "static/js/main.1a0a86aa.js"
+    "static/js/main.2aecec4f.js"
   ]
 }
